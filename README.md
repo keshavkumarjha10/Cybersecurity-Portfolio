@@ -2,7 +2,7 @@
 
 ### Contact & Academic Information
 - **Name:** Keshav Kumar Jha
-- **Academic Stream:** Class 12 PCM (Physics, Chemistry, Mathematics)
+- **Academic Stream:** Class 12 PCM + CS & AI (Physics, Chemistry, Mathematics, Computer Science, Artificial Intelligence)
 - **JEE Main Application Number:** [14726230]
 - **JEE Main Percentile:** [81.3419266]
 
