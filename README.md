@@ -19,4 +19,4 @@
 #### 2. Network Interface Edge Port Scanner Simulation
 - **File:** `port_scanner_simulation.py`
 - **Architectural Mechanics:** Implements a logical framework demonstrating how automated network auditing scripts interact with connection endpoints. It maps network configurations to flag structural entry points (such as SSH Port 22 or HTTPS Port 443) that security teams audit for vulnerabilities.
--
+
