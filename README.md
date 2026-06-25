@@ -20,3 +20,10 @@
 - **File:** `port_scanner_simulation.py`
 - **Architectural Mechanics:** Implements a logical framework demonstrating how automated network auditing scripts interact with connection endpoints. It maps network configurations to flag structural entry points (such as SSH Port 22 or HTTPS Port 443) that security teams audit for vulnerabilities.
 
+
+## 🛡️ Cybersecurity Practice & Progress
+
+* 🎯 **TryHackMe Profile**: [View My Live Progress on TryHackMe](https://tryhackme.com)
+
+### Real-Time Rank Badge:
+![TryHackMe Badge](https://herokuapp.com)
