@@ -23,7 +23,5 @@
 
 ## 🛡️ Cybersecurity Practice & Progress
 
-* 🎯 **TryHackMe Profile**: [View My Live Progress on TryHackMe](https://tryhackme.com)
-
-### Real-Time Rank Badge:
-![TryHackMe Badge](https://herokuapp.com)
+* 🎯 **TryHackMe Profile**: [Click Here to View My Live Progress](https://tryhackme.com)
+*
